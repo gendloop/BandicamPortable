@@ -1,8 +1,8 @@
-# RepoName
+# BandicamPortable
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/BandicamPortable
 ```
 
