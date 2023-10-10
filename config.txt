@@ -1,0 +1,5 @@
+
+PROJECT_NAME=BandicamPortable
+BandicamPortable_VERSION_MAJOR=4
+BandicamPortable_VERSION_MINOR=5
+BandicamPortable_VERSION_PATCH=5
